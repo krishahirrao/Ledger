@@ -45,7 +45,6 @@ Ledger/
 │   ├── routes/
 │   ├── data/
 │   ├── package.json
-│   └── package-lock.json
 │
 └── README.md
 ```
